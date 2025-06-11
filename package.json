@@ -1,0 +1,34 @@
+{
+  "name": "blog-app---backend",
+  "version": "1.0.0",
+  "description": "Backend app of a Blog App",
+  "keywords": [
+    "nodejs",
+    "backend"
+  ],
+  "homepage": "https://github.com/Satwik290/Blog-App-Backend-#readme",
+  "bugs": {
+    "url": "https://github.com/Satwik290/Blog-App-Backend-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satwik290/Blog-App-Backend-.git"
+  },
+  "license": "ISC",
+  "author": "Satwik Mohanty",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.15.1",
+    "nodemon": "^3.1.10"
+  }
+}
