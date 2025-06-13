@@ -1,7 +1,7 @@
 const express = require('express');
 const dotenv = require('dotenv');
 dotenv.config(); 
-
+const user =require("./models/user");
 const connectDB = require('./config/db');
 connectDB();
 
