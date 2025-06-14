@@ -3,5 +3,5 @@
 
 ## 🧠 Project Architecture
 
-![Backend Architecture](./assets/architecture.png)
+![Backend Architecture](./assets/architecture.png.png)
 
