@@ -9,6 +9,7 @@
   - authentication using jwt , cookies and bcrypt
 ## models
   - user schema
+  - post schema
 ## routes
    ### auth routes
       - sign up
