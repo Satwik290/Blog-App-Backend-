@@ -98,7 +98,7 @@ npm start     # production
 ## 🧠 Architecture
 
 <p align="center">
-  <img src="./assets/architecture.png" alt="Architecture Diagram" width="800"/>
+  <img src="./src/assets/arch.svg.svg" alt="Architecture Diagram" width="800"/>
 </p>
 
 ---
